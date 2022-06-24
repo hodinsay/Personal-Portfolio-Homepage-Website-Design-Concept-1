@@ -16,4 +16,5 @@ An animated personal portfolio homepage website design concept. This portfolio c
 
 Take a look at these couple examples that I have in my own portfolio:
 
--**Animated Social App Homepage Website Design**: https://github.com/hodinsay/Animated-Social-App-Homepage-Website-Design
+- **Animated Social App Homepage Website Design**: https://github.com/hodinsay/Animated-Social-App-Homepage-Website-Design
+- **Personal Portfolio Homepage Website Design Concept 2**: https://github.com/hodinsay/Personal-Porfolio-Homepage-Website-Design-Concept-2
